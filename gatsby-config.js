@@ -11,7 +11,12 @@ module.exports = {
     siteUrl: `https://herlambang.design`,
   },
   plugins: [
-    `gatsby-plugin-glamor`,
+    {
+      resolve: `gatsby-plugin-emotion`,
+      options: {
+        // Accepts all options defined by `babel-plugin-emotion` plugin.
+      },
+    },
     // {
     //   resolve: 'gatsby-plugin-webpack-bundle-analyzer',
     //   options: {
