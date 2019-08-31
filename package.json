@@ -35,6 +35,7 @@
     "@mdx-js/tag": "^0.20.3",
     "@reach/combobox": "^0.1.1",
     "@reach/dialog": "^0.2.9",
+    "@reach/observe-rect": "^1.0.3",
     "classnames": "^2.2.6",
     "framer-motion": "^1.6.3",
     "gatsby": "^2.13.45",
