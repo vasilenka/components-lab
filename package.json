@@ -37,6 +37,7 @@
     "@reach/dialog": "^0.2.9",
     "@reach/observe-rect": "^1.0.3",
     "classnames": "^2.2.6",
+    "date-fns": "^2.2.1",
     "framer-motion": "^1.6.3",
     "gatsby": "^2.13.45",
     "gatsby-image": "^2.0.37",
