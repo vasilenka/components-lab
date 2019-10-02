@@ -74,7 +74,9 @@
     "react-focus-lock": "^2.0.5",
     "react-helmet": "^5.2.0",
     "react-intersection-observer": "^8.24.1",
-    "react-remove-scroll": "^2.0.4"
+    "react-remove-scroll": "^2.0.4",
+    "react-use": "^12.2.2",
+    "use-calendar-matrix": "^1.0.0"
   },
   "devDependencies": {
     "eslint-config-react-app": "^4.0.1",
